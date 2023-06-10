@@ -38,7 +38,7 @@
 ## Introduction
 
 This repository contains details about the DHPR (Driving Hazard Prediction and Reasoning) dataset. 
-The DHPR dataset was introducted to solve the problem of predicting hazards that drivers may encounter while driving a car. We formulate it as visual abductive reasoning using a single input image captured by car dashcams. 
+The DHPR dataset was introduced to solve the problem of predicting hazards that drivers may encounter while driving a car. We formulate it as visual abductive reasoning using a single input image captured by car dashcams.  
 
 The dataset consists of:
 * 14,975 street scenes 
@@ -49,37 +49,29 @@ The dataset consists of:
 <!-- Evaluation -->
 ## Evaluation
 
-This is an evaluation section which guide you how to evaluate with our test dataset. You will be using our prepared evaluation files to run the model. You can give us both image and text embedding token in the given format. Then, upload the file and you will be given the performance of your model.
+This is an evaluation section that guides you on how to evaluate benchmarking on our system with the test dataset. You will be using our prepared evaluation files to run the model. You can give us both image and text embedding tokens in the given format. Then, upload the file and you will be given the performance of your model.
 
 1. Download the evaluation files in the annonation_files folder.
    ```
-   eval_test_image.json
-   eval_test_text.json
+   annotation_files/eval_test_image.json
+   annotation_files/eval_test_text.json
    ```
-2. Run model to obtain image and text embedding in the following format.
+2. Run model and output the result image and text embedding in the following dictionary format. 
+The evaluation script for baseline CLIP-based model is also provided in the evaluation folder.
+    ```
+    {
+      image_embedding:{'857729eb-3dcb8ec9': tensor([....]), 'torino_00134': tensor([....])},
+      Text_embedding:{'277e3d65e248a8b8503ebce4301f58cb' : tensor([....]), 'f1fd84cc5392993283a01ec48a621a1c': tensor([....])}
+    }
+    ```
+3. Upload the output embedding dictionary to our evaluation server at 
+    ```
+    Link
+    ```
+4. Obtain the performance results as shown in the example below.
     ```
     
     ```
-
-
-
-
-3. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
-
 <!-- LICESE -->
 ## License
 
