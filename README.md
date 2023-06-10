@@ -2,11 +2,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="images/preview_image.jpg" alt="Logo" width="720">
   </a>
 
-  <h3 align="center">DHPR: Driving Hazard Prediction and Reasoning</h3>
+  <h3 align="center">Visual Abductive Reasoning Meets Driving Hazard Prediction: Problem Formulation and  Dataset</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
