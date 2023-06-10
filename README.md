@@ -17,7 +17,7 @@
   </p>
 </div>
 <!--<h3><b>Visual-Abductive-Reasoning-Meets-Driving-Hazard-Prediction</b></h3>-->
-## <a href="https://github.com/DHPR-dataset/Visual-Abductive-Reasoning-Meets-Driving-Hazard-Prediction"><strong> DHPR dataset</strong> </a> <br>
+<a href="https://github.com/DHPR-dataset/Visual-Abductive-Reasoning-Meets-Driving-Hazard-Prediction"><strong> DHPR dataset</strong> </a> <br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
