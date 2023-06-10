@@ -49,13 +49,22 @@ The dataset consists of:
 <!-- Evaluation -->
 ## Evaluation
 
+This is an evaluation section which guide you how to evaluate with our test dataset. You will be using our prepared evaluation files to run the model. You can give us both image and text embedding token in the given format. Then, upload the file and you will be given the performance of your model.
 
-### Installation
+1. Download the evaluation files in the annonation_files folder.
+   ```
+   eval_test_image.json
+   eval_test_text.json
+   ```
+2. Run model to obtain image and text embedding in the following format.
+    ```
+    
+    ```
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+
+3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
