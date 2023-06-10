@@ -41,16 +41,14 @@
 ## Introduction
 
 This repository contains details about the DHPR (Driving Hazard Prediction and Reasoning) dataset. 
-The DHPR dataset was introducted to solve the problem of predicting hazards that drivers may encounter while driving a car. We formulate it as visual abductive reasoning using a single input image captured by car dashcams. The dataset consists of:
-	14,975 dashcam images of street scenes, car speed, hazard description and visual entity descriptions.
-	
-	
+The DHPR dataset was introducted to solve the problem of predicting hazards that drivers may encounter while driving a car. We formulate it as visual abductive reasoning using a single input image captured by car dashcams. 
 
+The dataset consists of:
+* 14,975 dashcam images of street scenes, 
+* Car speed, 
+* Hazard description and 
+* Visual entity descriptions.
 
-
-....apply abductive reasoning in giving hazard prediction... and increase caution. See the papaer in more details.
-
-The dataset contains annotations of 14975 images.
 
 
 
