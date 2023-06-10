@@ -45,8 +45,8 @@ The DHPR dataset was introducted to solve the problem of predicting hazards that
 
 The dataset consists of:
 * 14,975 dashcam images of street scenes 
-* Car speed 
-* Hazard description
+* Car speeds 
+* Hazard descriptions
 * Visual entity descriptions
 
 
