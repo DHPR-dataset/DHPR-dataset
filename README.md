@@ -29,7 +29,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Introduction</a>
+      <a href="#introduction">Introduction</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
