@@ -70,7 +70,8 @@ The evaluation script for baseline CLIP-based model is also provided in the eval
     ```
 4. Obtain the performance results as shown in the example below.
     ```
-    
+    {
+    }
     ```
 <!-- LICESE -->
 ## License
