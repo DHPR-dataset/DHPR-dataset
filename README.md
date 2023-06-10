@@ -11,7 +11,7 @@
   <p align="center">
     Visual Abductive Reasoning Meets Driving Hazard Prediction: Problem Formulation and  Dataset
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template](https://trafficreasoningdatasetimage1.s3.ap-northeast-1.amazonaws.com/DHPR/image_folder.tar.gz"><strong>Download Assets »</strong></a>
+    <a href="https://trafficreasoningdatasetimage1.s3.ap-northeast-1.amazonaws.com/DHPR/image_folder.tar.gz"><strong>Download Assets »</strong></a>
     <br />
     <br />
   </p>
