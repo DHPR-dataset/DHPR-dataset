@@ -26,13 +26,6 @@
     <li>
       <a href="#introduction">Introduction</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -48,6 +41,13 @@ The dataset consists of:
 * Car speeds 
 * Hazard descriptions
 * Visual entity descriptions
+
+<!-- LICESE -->
+## License
+
+The dataset used in this paper is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+
 
 
 
