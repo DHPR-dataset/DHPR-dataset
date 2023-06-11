@@ -77,12 +77,14 @@ The evaluation script for baseline CLIP-based model is also provided in the eval
     ```
 3. Upload the output embedding dictionary to our evaluation server at 
     ```
-    Link
+    [Link](https://huggingface.co/spaces/DHPR/Evaluation_Server)
     ```
 4. Obtain the performance results as shown in the example below.
     ```
-    {
-    }
+  {
+  "direct": {"i2t rank": 82.026, "t2i rank": 66.033, "ndcg score": 0.829821706142076}, 
+  "indirect": {"i2t rank": 52.1475, "t2i rank": 68.077, "ndcg score": 0.8046468245315274}
+  }
     ```
 <!-- Leaderboard -->
     
