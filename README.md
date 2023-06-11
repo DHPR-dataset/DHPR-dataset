@@ -30,6 +30,9 @@
       <a href="#Demo">Demo</a>
     </li>
     <li>
+      <a href="#Leaderboard">Leaderboard</a>
+    </li>
+    <li>
       <a href="#Evaluation">Evaluation</a>
     </li>
     <li><a href="#license">License</a></li>
@@ -81,6 +84,14 @@ The evaluation script for baseline CLIP-based model is also provided in the eval
     {
     }
     ```
+<!-- Leaderboard -->
+    
+## Leaderboard
+| Model | Score1    | Score    |
+| :---:   | :---: | :---: |
+| Model1 | 100   | 90   |
+
+
 <!-- LICESE -->
 ## License
 
