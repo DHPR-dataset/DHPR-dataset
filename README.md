@@ -30,10 +30,10 @@
       <a href="#Demo">Demo</a>
     </li>
     <li>
-      <a href="#Leaderboard">Leaderboard</a>
-    </li>
-    <li>
       <a href="#Evaluation">Evaluation</a>
+    </li>
+     <li>
+      <a href="#Leaderboard">Leaderboard</a>
     </li>
     <li><a href="#license">License</a></li>
   </ol>
