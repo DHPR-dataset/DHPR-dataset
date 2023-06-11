@@ -87,9 +87,10 @@ The evaluation script for baseline CLIP-based model is also provided in the eval
 <!-- Leaderboard -->
     
 ## Leaderboard
-| Model | Score1    | Score    |
-| :---:   | :---: | :---: |
-| Model1 | 100   | 90   |
+| Model | Visual Encoder    | I2T    | T2I    | I2T    |
+| :---:   | :---: | :---: | T2I    | I2T    |
+| :---:   | :---: | :---: | T2I    | I2T    |
+| Baseline w/ Dual Encoders | ViT-L/14 | 90   | 100   | 90   |
 
 
 <!-- LICESE -->
