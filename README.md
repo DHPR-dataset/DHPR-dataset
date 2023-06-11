@@ -59,9 +59,9 @@ This is an evaluation section that guides you on how to evaluate benchmarking on
 2. Run model and output the result image and text embedding in the following dictionary format. 
 The evaluation script for baseline CLIP-based model is also provided in the evaluation folder.
     ```
-   {('857729eb-3dcb8ec9', '9b2a56310bf10f2032145bbf503d4543'): 0.7750905,
-     ('857729eb-3dcb8ec9', 'f908aaf7cfb390e5ea938452e3916a65'): 0.81745917,
-     ('857729eb-3dcb8ec9', '89d9cb127c5a1fd8519554772366182a'): 0.8823063,
+    {'857729eb-3dcb8ec9:9b2a56310bf10f2032145bbf503d4543': 0.7750905,
+     '857729eb-3dcb8ec9:f908aaf7cfb390e5ea938452e3916a65': 0.81745917,
+     '857729eb-3dcb8ec9:89d9cb127c5a1fd8519554772366182a': 0.8823063,
      .....
     }
     ```
