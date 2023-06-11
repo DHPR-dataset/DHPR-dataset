@@ -87,10 +87,17 @@ The evaluation script for baseline CLIP-based model is also provided in the eval
 <!-- Leaderboard -->
     
 ## Leaderboard
-| Model | Visual Encoder    | Direct    | Indirect    | Direct    | Indirect |
-| :---:   | :---: | :---: | :---:    | :---:    | :---:    |
-| :---:   | :---: | :---: | :---:    | :---:    | :---:    |
-| Baseline w/ Dual Encoders | ViT-L/14 | 90   | 100   | 90   | 90   |
+
+#### Comparison of average rank of GT texts and NDCG score on test split. Lower ranks indicate better performance, while higher NDCG scores indicate better.
+
+| Model | Visual Encoder |Direct <p>T2I</p>| Indirect <p>T2I</p>| Direct <p>I2T</p>| Indirect <p>I2T</p> | NDCG <p>Direct</p> | NDCG <p>Direct</p> |
+| :---:   | :---: | :---: | :---: | :---:  | :---: | :---:  | :---: |
+| Random | - | 500 | 500 | 500| 500 | - | - |
+| UNITER | Faster R-CNN | 172.3 | 186.5 | 173.8| 181.2 | 74.2 | 71.9|
+| BLIP | ViT-B/16 | 153.4 | 172.1 | 151.9 | 176.1 | 78.6 | 72.3|
+| Baseline | ViT-B/16 | 77.2 | 75.3 | 78.4 | 73.3 | 81.8 | 79.2|
+| Baseline <p>w/ Dual Encoders</p> | ViT-B/16 | 74.8 | 70.2 | 69.2 | 64.3 | 82.9 | 80.4|
+| Baseline <p>w/ Dual Encoders</p> | ViT-L/14 | 65.9 | 55.8 | 66.5 | 53.8 | 84.4 | 80.7|
 
 
 <!-- LICESE -->
