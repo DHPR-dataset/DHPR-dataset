@@ -88,6 +88,8 @@ The evaluation script for baseline CLIP-based model is also provided in the eval
     
 ## Leaderboard
 
+To submit results, please upload the result file here.
+
 #### Comparison of average rank of GT texts and NDCG score on test split for both direct and indirect hazard type. Lower ranks indicate better performance, while higher NDCG scores indicate better. Noted that the ranking is compared with random sampled 1000 data samples within same type.
 
 | Model | Visual Encoder |Direct <p>T2I</p>| Indirect <p>T2I</p>| Direct <p>I2T</p>| Indirect <p>I2T</p> | NDCG <p>Direct</p> | NDCG <p>Direct</p> |
