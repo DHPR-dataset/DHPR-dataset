@@ -94,7 +94,7 @@ To submit results, please upload the result file <a href="https://forms.gle/EfTi
 
 #### Comparison of average rank of GT texts and NDCG score on test split for both direct and indirect hazard type. Lower ranks indicate better performance, while higher NDCG scores indicate better. Noted that the ranking is compared with random sampled 1000 data samples within same type.
 
-| Model | Visual Encoder |Direct <p>T2I</p>| Indirect <p>T2I</p>| Direct <p>I2T</p>| Indirect <p>I2T</p> | NDCG <p>Direct</p> | NDCG <p>Direct</p> |
+| Model | Visual Encoder |Direct <p>T2I</p>| Indirect <p>T2I</p>| Direct <p>I2T</p>| Indirect <p>I2T</p> | NDCG <p>Direct</p> <p>I2T</p> | NDCG <p>Indirect</p> <p>I2T</p> |
 | :---:   | :---: | :---: | :---: | :---:  | :---: | :---:  | :---: |
 | Random | - | 500 | 500 | 500| 500 | - | - |
 | UNITER | Faster R-CNN | 172.3 | 186.5 | 173.8| 181.2 | 74.2 | 71.9|
