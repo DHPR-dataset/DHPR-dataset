@@ -30,7 +30,7 @@
       <a href="#Demo">Demo</a>
     </li>
     <li>
-      <a href="#DataFiles">Demo</a>
+      <a href="#DataFiles">Data Files</a>
     </li>
     <li>
       <a href="#Evaluation">Evaluation</a>
