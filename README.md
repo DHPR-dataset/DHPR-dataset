@@ -30,7 +30,7 @@
       <a href="#Demo">Demo</a>
     </li>
     <li>
-      <a href="#Datadir">Demo</a>
+      <a href="#Datatree">Demo</a>
     </li>
     <li>
       <a href="#Evaluation">Evaluation</a>
@@ -59,12 +59,17 @@ The dataset consists of:
 
 Please find more details of the dataset in this <a href="https://huggingface.co/spaces/DHPR/Demo"><strong>Demo</strong></a>. 
 
-<!-- DATA DIRECTORY -->
-## Datadir
-```
----
+<!-- DATA Tree -->
+## Datatree
 
+Given the following file tree:
 ```
+annotation_files
+├── anno_train.json
+├── anno_val_direct.json
+└── anno_val_indirect.json
+```
+
 <!-- Evaluation -->
 ## Evaluation
 
