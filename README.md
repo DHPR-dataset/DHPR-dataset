@@ -30,7 +30,7 @@
       <a href="#Demo">Demo</a>
     </li>
     <li>
-      <a href="#Data Files">Demo</a>
+      <a href="#DataFiles">Demo</a>
     </li>
     <li>
       <a href="#Evaluation">Evaluation</a>
@@ -60,7 +60,7 @@ The dataset consists of:
 Please find more details of the dataset in this <a href="https://huggingface.co/spaces/DHPR/Demo"><strong>Demo</strong></a>. 
 
 <!-- DATA Tree -->
-## Data Files
+## DataFiles
 
 Given the following file tree:
 ```
