@@ -60,7 +60,7 @@ The dataset consists of:
 Please find more details of the dataset in this <a href="https://huggingface.co/spaces/DHPR/Demo"><strong>Demo</strong></a>. 
 
 <!-- DATA Tree -->
-## DataFiles
+## Data Files
 
 Given the following file tree:
 ```
