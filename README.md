@@ -68,8 +68,7 @@ Given the following file tree:
 ```
 annotation_files
 ├── anno_train.json
-├── anno_val_direct.json
-└── anno_val_indirect.json
+└── anno_val.json
 ```
 
 <!-- Evaluation -->
