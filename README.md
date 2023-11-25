@@ -53,7 +53,7 @@ The dataset consists of:
 * 14,975 street scenes 
 * Car speeds 
 * Hazard descriptions
-* Visual entity descriptions
+* Visual entity descriptions (Oracle Scenarios Only)
 
 <!-- Demo -->
 ## Demo
