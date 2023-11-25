@@ -53,7 +53,7 @@ The dataset consists of:
 * 14,975 street scenes 
 * Car speeds 
 * Hazard descriptions
-* Visual entity descriptions (Oracle Scenarios Only)
+* Visual entity descriptions (Oracle Scenario Only)
 
 <!-- Demo -->
 ## Demo
@@ -73,38 +73,13 @@ annotation_files
 <!-- Evaluation -->
 ## Evaluation
 
-This is an evaluation section that guides you on how to evaluate benchmarking on our system with the test dataset. You will be using our prepared evaluation files to run the model. You can give us both image and text embedding tokens in the given format. Then, upload the file and you will be given the performance of your model.
+To be updated.
 
-1. Download the evaluation files in the annonation_files folder.
-   ```
-   annotation_files/eval_test_image.json
-   annotation_files/eval_test_text.json
-   ```
-2. Run model and output the result image and text embedding in the following dictionary format. 
-The evaluation script for baseline CLIP-based model is also provided in the evaluation folder.
-    ```
-    {'857729eb-3dcb8ec9:9b2a56310bf10f2032145bbf503d4543': 0.7750905,
-     '857729eb-3dcb8ec9:f908aaf7cfb390e5ea938452e3916a65': 0.81745917,
-     '857729eb-3dcb8ec9:89d9cb127c5a1fd8519554772366182a': 0.8823063,
-     .....
-    }
-    ```
-3. Upload the output embedding dictionary to our evaluation server at 
-    ```
-    https://huggingface.co/spaces/DHPR/Evaluation_Server
-    ```
-4. Obtain the performance results as shown in the example below.
-    ```
-    {
-    "direct": {"i2t rank": 82.026, "t2i rank": 66.033, "ndcg score": 0.829821706142076}, 
-    "indirect": {"i2t rank": 52.1475, "t2i rank": 68.077, "ndcg score": 0.8046468245315274}
-    }
-    ```
 <!-- Leaderboard -->
     
 ## Leaderboard
 
-To submit results, please upload the result file <a href="https://forms.gle/EfTiKoB1QWJRcGRh6"><strong>here</strong></a>. 
+To submit results, please upload the result file (To be updated).
 
 #### Comparison of average rank of GT texts and NDCG score on test split for both direct and indirect hazard type. Lower ranks indicate better performance, while higher NDCG scores indicate better. Noted that the ranking is compared with random sampled 1000 data samples within the same data split.
 
