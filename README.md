@@ -81,7 +81,7 @@ To be updated.
 
 To submit results, please upload the result file (To be updated).
 
-#### Comparison of average rank of GT texts and NDCG score on test split for both direct and indirect hazard type. Lower ranks indicate better performance, while higher NDCG scores indicate better. Noted that the ranking is compared with random sampled 1000 data samples within the same data split.
+#### Leaderboard of Results for the image retrieval (IR) and text retrieval (TR) tasks and the generation task on the DHPR test split. The retrieval tasks are evaluated by the average rank and Recall@1. The generation task is evaluated using BLEU (B4), ROUGE (R), CIDEr (C), SPIDER (S), and the GPT-4 score. For all metrics except the rank metric, higher values indicate better performance. For GPT-4V, we perform a zero-shot evaluation on the test split. 
 
 | Model | Visual Encoder |Direct <p>T2I</p>| Indirect <p>T2I</p>| Direct <p>I2T</p>| Indirect <p>I2T</p> | NDCG <p>Direct <br> I2T </p> | NDCG <p>Indirect<br> I2T </p> |
 | :---:   | :---: | :---: | :---: | :---:  | :---: | :---:  | :---: |
