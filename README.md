@@ -85,8 +85,7 @@ To submit results, please upload the result file (To be updated).
 
 | Model | Visual Encoder | IR Rank | IR R@1| TR Rank | TR R@1 | Text Decoder | B4 | R | C | S | GPT-4 |
 | :---: | :---: | :---: | :---: | :---:  | :---: | :---:  | :---: | :---: | :---: | :---: | :---: |
-| Random | - | 500 | 500 | 500| 500 | - | - |
-| UNITER | Faster R-CNN | 172.3 | 186.5 | 173.8| 181.2 | 74.2 | 71.9|
+| CLIP | ViT-L/14 | 10.8 | 24.1% | 10.9 | 24.8% | - | - | - | - | - | - |
 | BLIP | ViT-B/16 | 153.4 | 172.1 | 151.9 | 176.1 | 78.6 | 72.3|
 | Baseline | ViT-B/16 | 77.2 | 75.3 | 78.4 | 73.3 | 81.8 | 79.2|
 | Baseline <p>w/ Text Encoders</p> | ViT-B/16 | 75.9 | 73.5 | 73.2 | 68.1 | 82.2 | 80.3|
