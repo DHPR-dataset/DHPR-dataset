@@ -83,8 +83,8 @@ To submit results, please upload the result file (To be updated).
 
 #### Leaderboard of Results for the image retrieval (IR) and text retrieval (TR) tasks and the generation task on the DHPR test split. The retrieval tasks are evaluated by the average rank and Recall@1. The generation task is evaluated using BLEU (B4), ROUGE (R), CIDEr (C), SPIDER (S), and the GPT-4 score. For all metrics except the rank metric, higher values indicate better performance. For GPT-4V, we perform a zero-shot evaluation on the test split. 
 
-| Model | Visual Encoder |Direct <p>T2I</p>| Indirect <p>T2I</p>| Direct <p>I2T</p>| Indirect <p>I2T</p> | NDCG <p>Direct <br> I2T </p> | NDCG <p>Indirect<br> I2T </p> |
-| :---:   | :---: | :---: | :---: | :---:  | :---: | :---:  | :---: |
+| Model | Visual Encoder | IR Rank | IR R@1| TR Rank | TR R@1 | Text Decoder | B4 | R | C | S | GPT-4 |
+| :---: | :---: | :---: | :---: | :---:  | :---: | :---:  | :---: | :---: | :---: | :---: | :---: |
 | Random | - | 500 | 500 | 500| 500 | - | - |
 | UNITER | Faster R-CNN | 172.3 | 186.5 | 173.8| 181.2 | 74.2 | 71.9|
 | BLIP | ViT-B/16 | 153.4 | 172.1 | 151.9 | 176.1 | 78.6 | 72.3|
