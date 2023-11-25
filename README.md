@@ -86,12 +86,11 @@ To submit results, please upload the result file (To be updated).
 | Model | Visual Encoder | IR Rank | IR R@1| TR Rank | TR R@1 | Text Decoder | B4 | R | C | S | GPT-4 |
 | :---: | :---: | :---: | :---: | :---:  | :---: | :---:  | :---: | :---: | :---: | :---: | :---: |
 | CLIP | ViT-L/14 | 10.8 | 24.1% | 10.9 | 24.8% | - | - | - | - | - | - |
-| BLIP | ViT-B/16 | 153.4 | 172.1 | 151.9 | 176.1 | 78.6 | 72.3|
+| BLIP | ViT-B/16 | 15.3 | 9.3% | 15.9 | 8.1% | BERT | 12.6 | 32.9| 34.9 | 30.3 | 39.3| 
+| BLIP2 | ViT-g/14 | 11.5 | 19.1% | 12.1 | 19.8% | OPT-6.7B | 18.7 | 42.7| 38.9 | 38.9 | 35.4| 50.5| 
+
 | Baseline | ViT-B/16 | 77.2 | 75.3 | 78.4 | 73.3 | 81.8 | 79.2|
-| Baseline <p>w/ Text Encoders</p> | ViT-B/16 | 75.9 | 73.5 | 73.2 | 68.1 | 82.2 | 80.3|
-| Baseline <p>w/ Image Encoders</p> | ViT-B/16 | 74.5 | 72.2 | 79.1 | 69.7 | 81.4 | 80.3|
-| Baseline <p>w/ Dual Encoders</p> | ViT-B/16 | 74.8 | 70.2 | 69.2 | 64.3 | 82.9 | 80.4|
-| Baseline <p>w/ Dual Encoders</p> | ViT-L/14 | 65.9 | 55.8 | 66.5 | 53.8 | 84.4 | 80.7|
+
 
 
 <!-- LICESE -->
