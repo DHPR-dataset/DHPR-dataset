@@ -96,19 +96,25 @@ To submit results, please upload the result file (To be updated).
 
 <!-- LICESE -->
 ## License
-
 The dataset used in this paper is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
 
 
 
 
-<!-- ### Citation ###
+<!-- ### Citation ### -->
+## Citation
+@ARTICLE{10568360,
+  author={Charoenpitaks, Korawat and Nguyen, Van-Quang and Suganuma, Masanori and Takahashi, Masahiro and Niihara, Ryoma and Okatani, Takayuki},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Hazards;Cognition;Videos;Automobiles;Accidents;Task analysis;Natural languages;Vision;Language;Reasoning;Traffic Accident Anticipation},
+  doi={10.1109/TIV.2024.3417353}
+  }
 
-If you find these models useful for your resesarch, please cite with this bibtex.
-
-```
-
-``` -->
 
 
