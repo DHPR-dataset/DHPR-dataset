@@ -104,6 +104,8 @@ The dataset used in this paper is licensed under the Creative Commons Attributio
 
 <!-- ### Citation ### -->
 ## Citation
+
+```bibtex
 @ARTICLE{10568360,
   author={Charoenpitaks, Korawat and Nguyen, Van-Quang and Suganuma, Masanori and Takahashi, Masahiro and Niihara, Ryoma and Okatani, Takayuki},
   journal={IEEE Transactions on Intelligent Vehicles}, 
