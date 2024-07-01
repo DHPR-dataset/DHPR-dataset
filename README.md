@@ -106,7 +106,8 @@ The dataset used in this paper is licensed under the Creative Commons Attributio
 ## Citation
 
 ```bibtex
-@ARTICLE{10568360,
+
+@article{10568360,
   author={Charoenpitaks, Korawat and Nguyen, Van-Quang and Suganuma, Masanori and Takahashi, Masahiro and Niihara, Ryoma and Okatani, Takayuki},
   journal={IEEE Transactions on Intelligent Vehicles}, 
   title={Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction}, 
@@ -116,7 +117,7 @@ The dataset used in this paper is licensed under the Creative Commons Attributio
   pages={1-11},
   keywords={Hazards;Cognition;Videos;Automobiles;Accidents;Task analysis;Natural languages;Vision;Language;Reasoning;Traffic Accident Anticipation},
   doi={10.1109/TIV.2024.3417353}
-  }
+}
 
 
 
