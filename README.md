@@ -6,11 +6,12 @@
     <img src="images/preview_image.jpg" alt="Logo" width="720">
   </a>
 
-  <h3 align="center">DHPR: Driving Hazard Prediction and Reasoning</h3>
+  <h3 align="center">Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction</h3>
 
   <p align="center">
-    Visual Abductive Reasoning Meets Driving Hazard Prediction
+    DHPR: Driving Hazard Prediction and Reasoning
     <br />
+    <a href="https://ieeexplore.ieee.org/document/10568360"><strong>Paper</strong></a> <strong>|</strong>
     <a href="https://trafficreasoningdatasetimage1.s3.ap-northeast-1.amazonaws.com/DHPR/image_folder.tar.gz"><strong>Download Assets</strong></a> <strong>|</strong>
     <a href="https://huggingface.co/spaces/DHPR/Demo"><strong>Dataset Demo</strong></a> <strong>|</strong>
     <a href="https://huggingface.co/spaces/DHPR/Evaluation_Server"><strong>Evaluation Server</strong></a> <strong>|</strong>
